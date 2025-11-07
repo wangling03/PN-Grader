@@ -1,0 +1,5 @@
+{
+  "name": "Patient Note Grader Agent",
+  "description": "An AI-powered agent that grades patient notes based on a provided rubric. Users can input a patient's clinical note and a grading rubric, and the agent will provide a detailed evaluation, score, and feedback.",
+  "requestFramePermissions": []
+}
